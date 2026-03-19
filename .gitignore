@@ -1,0 +1,32 @@
+# ─── 환경변수 / 가상환경 (보안 및 용량) ───────────────────────
+.env
+.env.*
+venv/
+.venv/
+__pycache__/
+
+# ─── 시각화 및 데모 (GitHub README용 파일 제외) ──────────────
+# demo.gif 는 README 시연을 위해 Git에 추적되도록 목록에서 제거했습니다.
+github_qr.png
+데모영상.mp4
+VideoProject2-ezgif.com-video-to-gif-converter.gif
+
+# ─── 문서 및 리포트 (수정사항/보안사항 하위 문서는 제외 가능) ───
+AI_Work_Assistant_보고서.docx
+AI_Work_Assistant_보고서.pdf
+"Clush AI 업무 자동화 시스템 개발 보고서 PPT (1).pptx"
+순서도.md
+
+# ─── 개발 및 분석 스크립트 (1회성) ───────────────────────────
+generate_qr.py
+generate_report.py
+test_models.py
+
+# ─── 설정 및 캐시 ──────────────────────────────────────────
+.streamlit/
+.vscode/
+
+# ─── Git 설정 자신 ──────────────────────────────────────────
+
+
+면접대비
